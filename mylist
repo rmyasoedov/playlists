@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#PLAYLIST:IPTVmir
+
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Temp
+https://wdy2.dbcast.live/MZheV_az63Epk7glFlZumg/1737741846/3137362e36302e3139392e313432/ff696/playlist.m3u8
